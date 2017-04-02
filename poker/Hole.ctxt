@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=card1\ card2
+comment0.target=Hole(Card,\ Card)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hole\r\n
+comment1.params=cardNum\ card
+comment1.target=void\ setCard(int,\ Card)
+comment2.params=cardNum
+comment2.target=Card\ getCard(int)
+comment3.params=
+comment3.target=void\ printHole()
+numComments=4
