@@ -1,2 +1,2 @@
 # PokerAI
-AI that learns each game it plays
+AI that learns how to win at Texas Hold 'Em
